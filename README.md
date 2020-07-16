@@ -11,8 +11,8 @@ like `Laravel`, `Django`, `Vapor`.
 - 🍎 Definetely my favorite thing is working with all the Apple ecosystem 🤩
 
 ## Skills
-🌟 Swift, PHP, Python, Java, Html5
-⭐️ Laravel, Django, MySQL, MongoDB
+- 🌟 Swift, PHP, Python, Java, Html5
+- ⭐️ Laravel, Django, MySQL, MongoDB
 
 📫 You can reach me in my Email, Twitter or Linkedin, I'm always happy to help.
 <!--
