@@ -1,4 +1,4 @@
-### Mobile Software Engineer @<a href="https://apple.com">Apple</a> 💻📱
+### Software Engineer @<a href="https://apple.com">Apple</a> 💻📱
 Vancouver, WA 🇺🇸
 
 <a href="https://www.linkedin.com/in/luis-gerardo-luna-pena/" target="_blank"><img  src="https://avatars3.githubusercontent.com/u/357098" width="15" height="15" alt="linkedin logo"/>`LinkedIn`</a> | <a href="https://twitter.com/luis_lunapa" target="_blank"><img  src="https://github.com/johan/svg-cleanups/blob/master/logos/twitter.svg" width="15" height="15" alt="twitter logo"/>`Twitter`</a> | <a mailto="luis.lunapa@outlook.com">luis.lunapa@outlook.com</a>
